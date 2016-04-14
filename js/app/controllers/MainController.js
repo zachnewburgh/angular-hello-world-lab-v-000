@@ -5,5 +5,5 @@ function MainController($scope) {
 }
 
 angular
-  .module('app');
+  .module('app')
   .controller('MainController', MainController);
